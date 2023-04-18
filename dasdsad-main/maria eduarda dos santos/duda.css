@@ -1,0 +1,13 @@
+h1{
+   display: inline-flex;
+   color: blueviolet;	
+}
+
+header{
+	background: #440BE9;
+	height: 200px;
+}
+img{margin-top: 12px;
+	margin-left: 12px;
+    display: inline-flex;
+}
